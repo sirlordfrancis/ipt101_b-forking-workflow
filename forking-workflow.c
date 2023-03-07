@@ -8,7 +8,7 @@ int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
 	
-	// Call your function below this line.
+	calinawagan_printName();
 	
 	return 0;
 }
@@ -19,5 +19,5 @@ void navarro_printName() {
 }
 
 void calinawagan_printName() {
-	printf("Kyrone Jay S. Calinawagan")
-;}
+	printf("Kyrone Jay S. Calinawagan");
+}
