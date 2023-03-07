@@ -3,7 +3,9 @@
 	Description:	This activity will allow students to try forking from a public GitHub Repository.
 */
 #include <stdio.h>
-
+void navarro_printName() {
+	printf("Virgilio Cahucom");
+}
 int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
@@ -15,5 +17,4 @@ int main(){
 
 
 // Refer to the function name for the naming of your funcion.
-void navarro_printName() {
-}
+
