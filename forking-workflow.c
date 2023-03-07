@@ -7,13 +7,18 @@
 int main(){
 	printf("Forking workflow activity\n");
 	printf("Your name must be printed if this program is run. \n\n");
-	
+
 	// Call your function below this line.
+	
+	name();
 	
 	return 0;
 }
 
+void name(){
+	
+	printf("Angel Jasmine D. Borja");
+}
 
 // Refer to the function name for the naming of your funcion.
-void navarro_printName() {
-}
+
