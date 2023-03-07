@@ -9,7 +9,7 @@ int main(){
 	printf("Your name must be printed if this program is run. \n\n");
 	
 	// Call your function below this line.
-	navarro_printName();
+    bongcaron_printName();
 	return 0;
 }
 
@@ -17,3 +17,7 @@ int main(){
 // Refer to the function name for the naming of your funcion.
 void navarro_printName() {
 } printf("Archie Bongcaron");
+
+void bongcaron_printNmae(){
+	printf("Archie Bongcaron");
+}
